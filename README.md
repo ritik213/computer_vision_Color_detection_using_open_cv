@@ -32,7 +32,8 @@ Show real-time tracking with color names displayed on the detected objects.
 
 # Sample Output
 - A webcam window will open showing the video feed with detected red, green, and blue objects outlined and labeled in real time.
--TODO (Optional Enhancements)
-Add more colors
-Use trackbars to dynamically adjust HSV ranges
+
+# To DO (Optional Enhancements)
+- Add more colors
+- Use trackbars to dynamically adjust HSV ranges
 Save the video output with color tracking
